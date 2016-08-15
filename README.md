@@ -5,7 +5,7 @@ The main idea of this repository is to disclose those mother f**kers attacks and
 
 Folders listed by sender email addresses and email sequence number, and the mail contents as is, like the following:
 
-*ATTENTION: FILE CONTENTS ARE NO SAFE(malicious). DO NOT OPEN IT IN YOUR TRUSTED ENVIRNMENT*
+**ATTENTION: FILE CONTENTS ARE NO SAFE(malicious). DO NOT OPEN IT IN YOUR TRUSTED ENVIRNMENT**
 
 - spammer1@address1.ext
  - mail1
