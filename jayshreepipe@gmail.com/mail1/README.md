@@ -4,7 +4,7 @@ Extracting the real content is easy here.
 
 Using Ruby.
 
-```
+```ruby
 require 'uri'
 require 'base64' 
 
