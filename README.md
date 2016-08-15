@@ -9,15 +9,15 @@ Folders listed by sender email addresses and email sequence number, and the mail
 
 - spammer1@address1.ext
  - mail1
-  - file.html
-  - mail-screenshot.png
+    - file.html
+    - mail-screenshot.png
  - mail2
-  - file.js
-  - mail-screenshot.png
+    - file.js
+    - mail-screenshot.png
  - mailN
 - spammer2@address2.ext
  - mail1
-  - file.pdf
+    - file.pdf
  - mail2
  - mailN
 - Others (random emails)
