@@ -1,5 +1,5 @@
 # Spammers
-A collection of files sent by spammers to me/your email.
+A collection of files sent by spammers to my/your email.
 
 The main idea of this repository is to disclose those mother f**kers attacks and tricks. You may or may not find the reversing of their obfuscation.
 
@@ -22,4 +22,9 @@ Folders listed by sender email addresses and email sequence number, and the mail
  - mailN
 - Others (random emails)
  
+
+Note: This repository is not inteded to be writeups of de-obfuscation or something like that. However, you can mention and explain whatever you want.
+
+
+
 
